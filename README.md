@@ -21,10 +21,12 @@ This project demonstrates various Bootstrap components in a simple web applicati
 3. Modify `style.css` or add new Bootstrap components as needed.
 
 ## Files
+
 - `index.html`: Main HTML file
 - `style.css`: Custom styles
 - SVG files: Icons used in the app
 - JPG files: Images for gallery sections
 
 ## Author
+
 Created by ahmedabelrahman-dev
